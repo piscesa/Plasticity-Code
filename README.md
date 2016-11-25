@@ -1,5 +1,5 @@
 # Plasticity-Code
-This repositories was created to share additional codes for my plasticity model.
+This repositories was created to share additional codes for my plasticity model. The code is written in C#.Net and it requires Visual Studio Community Edition 2015 which could be downloaded for free.
 
 Additional codes provide below:
 
