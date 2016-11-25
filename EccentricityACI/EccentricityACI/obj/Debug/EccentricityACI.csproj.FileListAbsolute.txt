@@ -1,0 +1,6 @@
+D:\My Dissertation\International Journal\1st International Journal New\EccentricityACI\EccentricityACI\bin\Debug\EccentricityACI.exe.config
+D:\My Dissertation\International Journal\1st International Journal New\EccentricityACI\EccentricityACI\bin\Debug\EccentricityACI.exe
+D:\My Dissertation\International Journal\1st International Journal New\EccentricityACI\EccentricityACI\bin\Debug\EccentricityACI.pdb
+D:\My Dissertation\International Journal\1st International Journal New\EccentricityACI\EccentricityACI\obj\Debug\EccentricityACI.csprojResolveAssemblyReference.cache
+D:\My Dissertation\International Journal\1st International Journal New\EccentricityACI\EccentricityACI\obj\Debug\EccentricityACI.exe
+D:\My Dissertation\International Journal\1st International Journal New\EccentricityACI\EccentricityACI\obj\Debug\EccentricityACI.pdb
