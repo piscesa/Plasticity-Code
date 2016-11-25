@@ -7,4 +7,5 @@ Additional codes provide below:
 2. Iterative method to calculate out of roundness eccentricity. (New Formulation...). Folder: Eccentricity.
 
 # References
-
+1. Piscesa B, Attard M, Samani A, Tangaramvong S. A plasticity constitutive model for the stress-strain relationships of confined concrete. ACI Structural Journal - Accepted for publication. 2016.
+2. Piscesa B, Attard MM, Samani AK. A lateral strain plasticity model for FRP confined concrete. Composite Structures. 2016;158:160-74.
